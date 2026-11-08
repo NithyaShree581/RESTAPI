@@ -1,0 +1,8 @@
+Flask
+boto3
+pynamodb
+marshmallow
+python-dotenv
+pytest
+pytest-mock
+moto[dynamodb]
